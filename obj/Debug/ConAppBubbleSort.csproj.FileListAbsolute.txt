@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\bin\Debug\ConAppBubbleSort.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-11\ConAppBubbleSort\ConAppBubbleSort\obj\Debug\ConAppBubbleSort.pdb
